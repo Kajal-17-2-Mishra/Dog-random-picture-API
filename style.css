@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+  font-family: sans-serif;
+ }
+ button{
+   background-color: black;
+   color: white;
+   border: none;
+   border-radius: 9px;
+   padding: 3px 5px;
+   height: 45px;
+   width: 120px;
+   font-size: 18px;
+   font-weight: 550;
+   display: block;
+   margin: 10px auto;
+   cursor: pointer;
+ }
+ img{
+   margin: 20px auto;
+   height: 300px;
+   width: auto;
+   box-shadow: 15px 15px 15px #c0c0c0;
+ }
+ 
